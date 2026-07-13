@@ -1,0 +1,3 @@
+class student(models.Model):
+ 	studentId=models.Integerfield()
+	studentname=models.charfield()
